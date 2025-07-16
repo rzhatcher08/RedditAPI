@@ -1,0 +1,8 @@
+day_of_week,day_name,avg_score,median_score,post_count,avg_comments,median_comments,avg_engagement,median_engagement,avg_normalized_engagement
+0,Monday,135.09,3.0,88,63.16,10.0,113.51,5.6,29.77
+1,Tuesday,221.56,32.0,41,106.49,43.0,187.04,40.4,14.91
+2,Wednesday,331.9,179.0,29,163.69,78.0,281.43,137.8,23.8
+3,Thursday,317.19,169.0,31,170.52,89.0,273.19,145.7,28.25
+4,Friday,319.06,179.0,31,156.0,70.0,270.15,151.9,31.05
+5,Saturday,616.62,456.0,13,173.54,157.0,483.69,378.9,91.44
+6,Sunday,181.48,29.0,21,126.62,32.0,165.02,32.6,23.06
