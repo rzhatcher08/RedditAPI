@@ -1,0 +1,22 @@
+subreddit,subscribers,topic_rank,topic,mention_count,sentiment,sentiment_score,posts_with_topic
+AmItheAsshole,24070603,1,Family,16,Neutral,0.094,8
+AmItheAsshole,24070603,2,Marriage,8,Positive,0.108,3
+AmItheAsshole,24070603,3,Breakup,5,Neutral,0.085,2
+relationship_advice,15570081,1,Marriage,13,Neutral,0.025,5
+relationship_advice,15570081,2,Family,10,Neutral,0.001,6
+relationship_advice,15570081,3,Long Distance,5,Positive,0.115,5
+TwoXChromosomes,13624293,1,Family,6,Positive,0.138,4
+TwoXChromosomes,13624293,2,Marriage,5,Positive,0.155,3
+TwoXChromosomes,13624293,3,Communication,5,Neutral,0.047,5
+AskMen,7028479,1,Communication,6,Neutral,0.092,3
+AskMen,7028479,2,Marriage,5,Neutral,0.092,2
+AskMen,7028479,3,Intimacy,5,Positive,0.139,3
+dating,6182072,1,Dating,15,Neutral,0.009,14
+dating,6182072,2,Communication,10,Neutral,0.085,5
+dating,6182072,3,Intimacy,3,Neutral,0.036,3
+AskWomen,5562174,1,Breakup,2,N/A,0.0,0
+AskWomen,5562174,2,Family,2,Negative,-0.396,1
+AskWomen,5562174,3,Dating,1,Positive,0.219,1
+dating_advice,4623556,1,Dating,15,Positive,0.114,14
+dating_advice,4623556,2,Communication,11,Positive,0.156,6
+dating_advice,4623556,3,Trust,5,Positive,0.158,4
